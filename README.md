@@ -1,12 +1,33 @@
-### Hi there 👋
+# Hi, I'm Kostiantyn Protskikh
+I am a driven and passionate starter junior Python developer with a strong interest in building innovative software solutions. My expertise in Python, combined with my ability to quickly learn new technologies, makes me confident in my ability to contribute to any development team.
 
-<!--
-**KoskoPro/koskopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+## My experience
+___
+<p align='center'>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<p>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=koskopro&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=koskopro&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/koskopro/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=koskopro&layout=compact"/></a>
+</p>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/protskikh/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/koskopro">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a href="mailto:xanaxko@gail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+<p align='center'>
+   How to reach me: <a href='mailto:xanaxko@gail.com'>xanaxko@gail.com</a>
+</p>
