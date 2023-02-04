@@ -17,6 +17,7 @@ I am a driven and passionate starter junior Python developer with a strong inter
    <a href="https://github.com/koskopro/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=koskopro&layout=compact"/></a>
 </p>
+
 ## Links
 <p align='center'>
    <a href="https://www.linkedin.com/in/protskikh/">
