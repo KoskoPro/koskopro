@@ -2,7 +2,6 @@
 I am a driven and passionate starter junior Python developer with a strong interest in building innovative software solutions. My expertise in Python, combined with my ability to quickly learn new technologies, makes me confident in my ability to contribute to any development team.
 
 ## My experience
-___
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
@@ -18,6 +17,7 @@ ___
    <a href="https://github.com/koskopro/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=koskopro&layout=compact"/></a>
 </p>
+## Links
 <p align='center'>
    <a href="https://www.linkedin.com/in/protskikh/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
