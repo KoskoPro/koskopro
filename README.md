@@ -1,6 +1,9 @@
 # Hi, I'm Kostiantyn Protskikh
 I am a driven and passionate starter junior Python developer with a strong interest in building innovative software solutions. My expertise in Python, combined with my ability to quickly learn new technologies, makes me confident in my ability to contribute to any development team.
 
+<a href="https://github.com/KoskoPro"><img height=150 src="https://github-readme-stats.vercel.app/api?username=koskopro&show_icons=true&theme=merko">
+<a href="https://github.com/KoskoPro"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=koskopro&layout=compact&theme=merko">
+
 ## My experience
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -11,14 +14,8 @@ I am a driven and passionate starter junior Python developer with a strong inter
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <p>
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=koskopro&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=koskopro&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/koskopro/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=koskopro&layout=compact"/></a>
-</p>
 
-## Links
+## Social Profiles
 <p align='center'>
    <a href="https://www.linkedin.com/in/protskikh/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,9 +23,6 @@ I am a driven and passionate starter junior Python developer with a strong inter
    <a href="https://t.me/koskopro">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="mailto:xanaxko@gail.com">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-<p align='center'>
+ <p align='center'>
    How to reach me: <a href='mailto:xanaxko@gail.com'>xanaxko@gail.com</a>
 </p>
