@@ -15,6 +15,14 @@ I am a driven and passionate starter junior Python developer with a strong inter
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <p>
 
+## Basic knowledge, in progress. Python libraries & app  
+<p align='center'>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  
+<p>   
 ## Social Profiles
 <p align='center'>
    <a href="https://www.linkedin.com/in/protskikh/">
