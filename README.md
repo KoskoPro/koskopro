@@ -21,8 +21,8 @@ I am a driven and passionate starter junior Python developer with a strong inter
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  
 <p>   
+  
 ## Social Profiles
 <p align='center'>
    <a href="https://www.linkedin.com/in/protskikh/">
